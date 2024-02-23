@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T01:22:41.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="EjJLp0PRNhnxhzyoIALs" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T01:34:09.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="GeSGUfUILBdU2oFp3uO1" version="23.1.2" type="github" pages="2">
   <diagram name="第 1 页" id="35U5zQruaW94poFeW_AK">
     <mxGraphModel dx="946" dy="683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#999999" math="0" shadow="0">
       <root>
@@ -81,6 +81,20 @@
         </mxCell>
         <mxCell id="I_mlSLOYtYqVpcV3Qb66-12" value="storage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=18;fontStyle=1" vertex="1" parent="I_mlSLOYtYqVpcV3Qb66-9">
           <mxGeometry x="43" width="82" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QPQoqPXQrOkiYAbY-vGE" name="第 2 页">
+    <mxGraphModel dx="788" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#B3B3B3" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V2qwKeH094TXbV1Dp4kt-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://21782839.fs1.hubspotusercontent-na1.net/hubfs/21782839/starrocks-logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="615" y="163" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V2qwKeH094TXbV1Dp4kt-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdnd.selectdb.com/images/logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="239" width="117.36" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
