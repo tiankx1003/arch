@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T15:31:02.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="qgSbmGc2WKueR6_XRB7h" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-06T15:32:16.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="-hPfGUVlBfV5jzJ1ysjd" version="24.0.1" type="github" pages="2">
   <diagram name="第 1 页" id="35U5zQruaW94poFeW_AK">
     <mxGraphModel dx="946" dy="683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#999999" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="440.43" y="343" width="132.22" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pLFg6TvED4x4IOLx68LH-13" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://hive.apache.org/images/hive.svg;" parent="1" vertex="1">
-          <mxGeometry x="72.43" y="677" width="53.34" height="48" as="geometry" />
+          <mxGeometry x="56.00000000000001" y="677.5" width="53.34" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pLFg6TvED4x4IOLx68LH-14" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
           <mxGeometry x="434" y="528" width="60.98" height="50" as="geometry" />
@@ -86,10 +86,10 @@
           <mxGeometry x="421.43" y="277" width="268.13" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OBWb6hkaVYg3lfb6m8-H-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://21782839.fs1.hubspotusercontent-na1.net/hubfs/21782839/starrocks-logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="72.43" y="608" width="150" height="40" as="geometry" />
+          <mxGeometry x="49.00000000000001" y="610.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OBWb6hkaVYg3lfb6m8-H-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdnd.selectdb.com/images/logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="72.43" y="544.5" width="117.36" height="40" as="geometry" />
+          <mxGeometry x="56.00000000000001" y="545" width="117.36" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
